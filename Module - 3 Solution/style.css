@@ -1,0 +1,9 @@
+*{
+    display: border-box;
+}
+.menu{
+    border: 1px  black ;
+    margin-bottom:20px;
+    padding:10px;
+
+}
